@@ -1,0 +1,19 @@
+* {
+  background-color: aquamarine;
+}
+
+.main-cont {
+  width: 50%;
+  justify-items: center;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
+
+/* form {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+} */
+
