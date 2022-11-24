@@ -40,6 +40,7 @@ It works well in all platforms
 
 
 ## Authors
+Krash
 
 👤 **Author1**
 
